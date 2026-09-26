@@ -1,0 +1,6 @@
+{
+  "name": "HandoffGuard Clinical EMR",
+  "description": "Clinical Handover and Inpatient EMR Telemetry Management System adhering to I-PASS standards with Codex export and requirements.txt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
